@@ -8,3 +8,11 @@ with this one it has a thingie in the system tray as shown below
 it has an option to auto run when u log in to windows, and a button that will take u to https://sleepie.dev/oneko, and a button that closes the program, so u dont have to use task manager to close it anymore
 
 the animation speed and a few other things are kinda buggy and im too lazy to make an auto updater so maybe check back here in a week or month or ten idk its honestly a 50/50 chance that i actually remember to fix it
+
+website at https://sleepie.dev/oneko
+
+browser/js version at https://github.com/eepyfemboi/oneko
+
+old desktop version written in c# at https://github.com/eepyfemboi/oneko-desktop
+
+also u should star the repo ;3
